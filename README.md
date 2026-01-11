@@ -8,7 +8,7 @@
 ### 📷 Camera  
 | Paper | Venue | Links | Notes |
 |-------|-------|-------|-------|
-| **Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image** | ICCV 2023 | [arXiv:2307.10984](http://arxiv.org/abs/2307.10984) | |
+| **Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image** | ICCV 2023 | [![arXiv](https://img.shields.io/badge/arXiv-2405.11867-b31b1b?logo=arxiv)](http://arxiv.org/abs/2307.10984) | |
 | **UniDepth: Universal Monocular Metric Depth Estimation** | CVPR 2024 | [arXiv:2403.18913](http://arxiv.org/abs/2403.18913) | camera available |
 | **Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation** | TPAMI 2024 | [arXiv:2404.15506](http://arxiv.org/abs/2404.15506) | |
 | **Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera** | CVPR 2025 | [arXiv:2501.02464](https://arxiv.org/abs/2501.02464v2)| |
