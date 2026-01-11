@@ -10,7 +10,7 @@ We also welcome contributions of relevant papers in this field, and the reposito
 
 ### Sparse depth
 
-Depth Prompting for Sensor-Agnostic Depth Estimation
+\textbf{Depth Prompting for Sensor-Agnostic Depth Estimation}
 
 [[arXiv:2405.11867](https://arxiv.org/abs/2405.11867)] [CVPR'2024]
 
