@@ -14,4 +14,5 @@ We also welcome contributions of relevant papers in this field, and the reposito
 
 ### Defocus
 Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues
-[arxiv](https://arxiv.org/abs/2505.17358)
+
+[[arxiv](https://arxiv.org/abs/2505.17358)]
