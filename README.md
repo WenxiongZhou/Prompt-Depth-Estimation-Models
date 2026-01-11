@@ -11,6 +11,7 @@ We also welcome contributions of relevant papers in this field, and the reposito
 ### Sparse depth
 
 Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion
+
 [[arXiv:2412.13389](https://arxiv.org/abs/2412.13389)] [ICCV'25] Note: no training
 
 ### Defocus
