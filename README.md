@@ -24,11 +24,11 @@
 | **OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations** | ECCV 2024 | [arXiv:2406.11711](http://arxiv.org/abs/2406.11711) | |
 | **OMNI-DC: Highly Robust Depth Completion with Multiresolution Depth Integration** | ICCV 2025 | [arXiv:2411.19278](http://arxiv.org/abs/2411.19278) |Improvements to OGNI-DC|
 | **Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation** | CVPR 2025 | [arXiv:2412.14015](http://arxiv.org/abs/2412.14015)| |
+| **DepthLab: From Partial to Complete** | | [arXiv:2412.18153](http://arxiv.org/abs/2412.18153) ||
 | **Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion** | ICCV 2025 | [arXiv:2412.13389](https://arxiv.org/abs/2412.13389) | no training |
 | **Multi-view Reconstruction via SfM-guided Monocular Depth Estimation** | CVPR 2025 | [arXiv:2503.14483](http://arxiv.org/abs/2503.14483) | SfM |
 | **TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion** | CVPR 2025 | [arXiv:2504.11773](http://arxiv.org/abs/2504.11773) | |
 | **DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image** | ICCV 2025 | [arXiv:2504.01596](http://arxiv.org/abs/2504.01596)| dToF|
-| **DepthLab: From Partial to Complete** | | [arXiv:2412.18153](http://arxiv.org/abs/2412.18153) ||
 
 ### 🔍 Defocus  
 | Paper | Venue | Links | Notes |
