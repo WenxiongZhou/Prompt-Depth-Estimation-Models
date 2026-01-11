@@ -12,7 +12,7 @@
 | **UniDepth: Universal Monocular Metric Depth Estimation** | CVPR 2024 | [arXiv:2403.18913](http://arxiv.org/abs/2403.18913) | camera available |
 | **Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation** | TPAMI 2024 | [arXiv:2404.15506](http://arxiv.org/abs/2404.15506) | |
 | **Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera** | CVPR 2025 | [arXiv:2501.02464](https://arxiv.org/abs/2501.02464v2)| |
-| **UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler** | | [arXiv:2502.20110](http://arxiv.org/abs/2502.20110) | |
+| **UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler** | | [arXiv:2502.20110](http://arxiv.org/abs/2502.20110) | camera available |
 
 ### 🫧 Sparse Depth  
 | Paper | Venue | Links | Notes |
