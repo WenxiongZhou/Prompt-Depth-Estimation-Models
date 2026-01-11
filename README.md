@@ -18,7 +18,7 @@
 ### 🌸 Defocus  
 | Paper | Venue | Links | Notes |
 |-------|-------|-------|-------|
-| **BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation** | - | [arXiv:2512.12425](https://arxiv.org/abs/2512.12425)|-|
+| **BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation** | - | [arXiv:2512.12425](https://arxiv.org/abs/2512.12425)|--|
 | **Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues** | NeurIPS 2025 | [arXiv:2505.17358](https://arxiv.org/abs/2505.17358) | no training |
 
 ---
