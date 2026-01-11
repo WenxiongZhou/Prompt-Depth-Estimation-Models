@@ -8,7 +8,7 @@
 ### 📷 Camera  
 *Coming soon…*
 
-### 📏 Sparse Depth  
+### 🫧 Sparse Depth  
 | Paper | Venue | Links | Notes |
 |-------|-------|-------|-------|
 | **Bilateral Propagation Network for Depth Completion** |CVPR 2024|[arXiv:2403.11270](https://arxiv.org/abs/2403.11270)|—|
@@ -16,7 +16,7 @@
 | **Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation** | CVPR 2025 | [arXiv:2412.14015](http://arxiv.org/abs/2412.14015)| — |
 | **Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion** | ICCV 2025 | [arXiv:2412.13389](https://arxiv.org/abs/2412.13389) | no training |
 
-### 🌸 Defocus  
+### 📸 Defocus  
 | Paper | Venue | Links | Notes |
 |-------|-------|-------|-------|
 | **Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues** | NeurIPS 2025 | [arXiv:2505.17358](https://arxiv.org/abs/2505.17358) | no training |
