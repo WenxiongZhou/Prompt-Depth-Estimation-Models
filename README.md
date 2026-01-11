@@ -16,7 +16,7 @@
 | **DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image** | ECVA 2022 | [arXiv:2209.13362](http://arxiv.org/abs/2209.13362) | |
 | **Bilateral Propagation Network for Depth Completion** |CVPR 2024|[arXiv:2403.11270](https://arxiv.org/abs/2403.11270)| |
 | **Depth Prompting for Sensor-Agnostic Depth Estimation** | CVPR 2024 | [arXiv:2405.11867](https://arxiv.org/abs/2405.11867) |   |
-| **Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation** | CVPR 2025 | [arXiv:2412.14015](http://arxiv.org/abs/2412.14015)| — |
+| **Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation** | CVPR 2025 | [arXiv:2412.14015](http://arxiv.org/abs/2412.14015)| |
 | **DepthLab: From Partial to Complete** | | [arXiv:2412.18153](http://arxiv.org/abs/2412.18153) ||
 | **Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion** | ICCV 2025 | [arXiv:2412.13389](https://arxiv.org/abs/2412.13389) | no training |
 
