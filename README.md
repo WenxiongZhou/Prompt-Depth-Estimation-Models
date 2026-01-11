@@ -36,7 +36,7 @@
 | **Focus on defocus: bridging the synthetic to real domain gap for depth estimation** | CVPR 2022 | [arXiv:2005.09623](http://arxiv.org/abs/2005.09623)| |
 | **Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues** | NeurIPS 2025 | [arXiv:2505.17358](https://arxiv.org/abs/2505.17358) | no training |
 | **Dense Metric Depth Estimation via Event-based Differential Focus Volume Prompting** | NeurIPS 2025 | [openreview](https://openreview.net/forum?id=cPO8dUCJOc)| |
-| **BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation** | - | [arXiv:2512.12425](https://arxiv.org/abs/2512.12425)| |
+| **BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation** |  | [arXiv:2512.12425](https://arxiv.org/abs/2512.12425)| |
 
 ---
 
